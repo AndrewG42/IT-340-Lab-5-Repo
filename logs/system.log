@@ -1,0 +1,400 @@
+REPORT Thu Oct 16 10:44:48 PM EDT 2025
+ 22:44:48 up  1:42,  5 users,  load average: 0.00, 0.03, 0.06
+               total        used        free      shared  buff/cache   available
+Mem:         3434948     1873296      233576       55772     1435384     1561652
+Swap:        3614716        1788     3612928
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           336M  2.2M  334M   1% /run
+/dev/sda2        20G   11G  8.4G  55% /
+tmpfs           1.7G     0  1.7G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+tmpfs           1.7G  5.2M  1.7G   1% /tmp
+tmpfs           336M  132K  336M   1% /run/user/1000
+tmpfs           336M   76K  336M   1% /run/user/1001
+################################
+REPORT Thu Oct 16 10:45:01 PM EDT 2025
+ 22:45:01 up  1:43,  5 users,  load average: 0.00, 0.03, 0.06
+               total        used        free      shared  buff/cache   available
+Mem:         3434948     1874948      231664       55772     1435544     1560000
+Swap:        3614716        1788     3612928
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           336M  2.2M  334M   1% /run
+/dev/sda2        20G   11G  8.4G  55% /
+tmpfs           1.7G     0  1.7G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+tmpfs           1.7G  5.2M  1.7G   1% /tmp
+tmpfs           336M  132K  336M   1% /run/user/1000
+tmpfs           336M   76K  336M   1% /run/user/1001
+################################
+REPORT Thu Oct 16 10:46:01 PM EDT 2025
+ 22:46:01 up  1:44,  5 users,  load average: 0.00, 0.02, 0.06
+               total        used        free      shared  buff/cache   available
+Mem:         3434948     1876184      230300       55772     1435652     1558764
+Swap:        3614716        1788     3612928
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           336M  2.2M  334M   1% /run
+/dev/sda2        20G   11G  8.4G  55% /
+tmpfs           1.7G     0  1.7G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+tmpfs           1.7G  5.2M  1.7G   1% /tmp
+tmpfs           336M  132K  336M   1% /run/user/1000
+tmpfs           336M   76K  336M   1% /run/user/1001
+################################
+REPORT Thu Oct 16 10:47:01 PM EDT 2025
+ 22:47:01 up  1:45,  5 users,  load average: 0.17, 0.09, 0.08
+               total        used        free      shared  buff/cache   available
+Mem:         3434948     1876280      230172       55772     1435700     1558668
+Swap:        3614716        1788     3612928
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           336M  2.2M  334M   1% /run
+/dev/sda2        20G   11G  8.4G  55% /
+tmpfs           1.7G     0  1.7G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+tmpfs           1.7G  5.2M  1.7G   1% /tmp
+tmpfs           336M  132K  336M   1% /run/user/1000
+tmpfs           336M   76K  336M   1% /run/user/1001
+################################
+REPORT Thu Oct 16 10:48:01 PM EDT 2025
+ 22:48:01 up  1:46,  5 users,  load average: 0.19, 0.10, 0.08
+               total        used        free      shared  buff/cache   available
+Mem:         3434948     1876192      230176       55772     1435760     1558756
+Swap:        3614716        1788     3612928
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           336M  2.2M  334M   1% /run
+/dev/sda2        20G   11G  8.4G  55% /
+tmpfs           1.7G     0  1.7G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+tmpfs           1.7G  5.2M  1.7G   1% /tmp
+tmpfs           336M  132K  336M   1% /run/user/1000
+tmpfs           336M   76K  336M   1% /run/user/1001
+################################
+REPORT Thu Oct 16 10:49:01 PM EDT 2025
+ 22:49:01 up  1:47,  5 users,  load average: 0.14, 0.10, 0.08
+               total        used        free      shared  buff/cache   available
+Mem:         3434948     1876644      229704       55772     1435788     1558304
+Swap:        3614716        1788     3612928
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           336M  2.2M  334M   1% /run
+/dev/sda2        20G   11G  8.4G  55% /
+tmpfs           1.7G     0  1.7G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+tmpfs           1.7G  5.2M  1.7G   1% /tmp
+tmpfs           336M  132K  336M   1% /run/user/1000
+tmpfs           336M   76K  336M   1% /run/user/1001
+################################
+REPORT Thu Oct 16 10:50:01 PM EDT 2025
+ 22:50:01 up  1:48,  5 users,  load average: 0.05, 0.08, 0.08
+               total        used        free      shared  buff/cache   available
+Mem:         3434948     1876824      229444       55772     1435876     1558124
+Swap:        3614716        1788     3612928
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           336M  2.2M  334M   1% /run
+/dev/sda2        20G   11G  8.4G  55% /
+tmpfs           1.7G     0  1.7G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+tmpfs           1.7G  5.2M  1.7G   1% /tmp
+tmpfs           336M  132K  336M   1% /run/user/1000
+tmpfs           336M   76K  336M   1% /run/user/1001
+################################
+REPORT Thu Oct 16 10:51:01 PM EDT 2025
+ 22:51:01 up  1:49,  5 users,  load average: 0.02, 0.06, 0.07
+               total        used        free      shared  buff/cache   available
+Mem:         3434948     1881632      224576       55772     1435920     1553316
+Swap:        3614716        1788     3612928
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           336M  2.2M  334M   1% /run
+/dev/sda2        20G   11G  8.4G  55% /
+tmpfs           1.7G     0  1.7G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+tmpfs           1.7G  5.2M  1.7G   1% /tmp
+tmpfs           336M  132K  336M   1% /run/user/1000
+tmpfs           336M   76K  336M   1% /run/user/1001
+################################
+REPORT Thu Oct 16 10:52:01 PM EDT 2025
+ 22:52:01 up  1:50,  5 users,  load average: 0.00, 0.05, 0.06
+               total        used        free      shared  buff/cache   available
+Mem:         3434948     1879564      226612       55772     1435960     1555384
+Swap:        3614716        1788     3612928
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           336M  2.2M  334M   1% /run
+/dev/sda2        20G   11G  8.4G  55% /
+tmpfs           1.7G     0  1.7G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+tmpfs           1.7G  5.2M  1.7G   1% /tmp
+tmpfs           336M  132K  336M   1% /run/user/1000
+tmpfs           336M   76K  336M   1% /run/user/1001
+################################
+REPORT Thu Oct 16 10:53:01 PM EDT 2025
+ 22:53:01 up  1:51,  5 users,  load average: 0.11, 0.07, 0.07
+               total        used        free      shared  buff/cache   available
+Mem:         3434948     1880380      225672       55772     1436092     1554568
+Swap:        3614716        1788     3612928
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           336M  2.2M  334M   1% /run
+/dev/sda2        20G   11G  8.4G  55% /
+tmpfs           1.7G     0  1.7G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+tmpfs           1.7G  5.2M  1.7G   1% /tmp
+tmpfs           336M  132K  336M   1% /run/user/1000
+tmpfs           336M   76K  336M   1% /run/user/1001
+################################
+REPORT Thu Oct 16 10:54:01 PM EDT 2025
+ 22:54:01 up  1:52,  5 users,  load average: 0.04, 0.05, 0.06
+               total        used        free      shared  buff/cache   available
+Mem:         3434948     1880176      225780       55828     1436228     1554772
+Swap:        3614716        1788     3612928
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           336M  2.2M  334M   1% /run
+/dev/sda2        20G   11G  8.4G  55% /
+tmpfs           1.7G     0  1.7G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+tmpfs           1.7G  5.2M  1.7G   1% /tmp
+tmpfs           336M  132K  336M   1% /run/user/1000
+tmpfs           336M   76K  336M   1% /run/user/1001
+################################
+REPORT Thu Oct 16 10:55:01 PM EDT 2025
+ 22:55:01 up  1:53,  5 users,  load average: 0.08, 0.06, 0.06
+               total        used        free      shared  buff/cache   available
+Mem:         3434948     1895476      209960       55772     1436736     1539472
+Swap:        3614716        1788     3612928
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           336M  2.2M  334M   1% /run
+/dev/sda2        20G   11G  8.4G  55% /
+tmpfs           1.7G     0  1.7G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+tmpfs           1.7G  5.2M  1.7G   1% /tmp
+tmpfs           336M  132K  336M   1% /run/user/1000
+tmpfs           336M   76K  336M   1% /run/user/1001
+################################
+REPORT Thu Oct 16 10:56:01 PM EDT 2025
+ 22:56:01 up  1:54,  5 users,  load average: 0.08, 0.06, 0.06
+               total        used        free      shared  buff/cache   available
+Mem:         3434948     1892892      212340       56092     1437204     1542056
+Swap:        3614716        1788     3612928
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           336M  2.2M  334M   1% /run
+/dev/sda2        20G   11G  8.4G  55% /
+tmpfs           1.7G     0  1.7G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+tmpfs           1.7G  5.2M  1.7G   1% /tmp
+tmpfs           336M  132K  336M   1% /run/user/1000
+tmpfs           336M   76K  336M   1% /run/user/1001
+################################
+REPORT Thu Oct 16 10:57:01 PM EDT 2025
+ 22:57:01 up  1:55,  5 users,  load average: 0.07, 0.06, 0.06
+               total        used        free      shared  buff/cache   available
+Mem:         3434948     1892060      213108       56092     1437272     1542888
+Swap:        3614716        1788     3612928
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           336M  2.2M  334M   1% /run
+/dev/sda2        20G   11G  8.4G  55% /
+tmpfs           1.7G     0  1.7G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+tmpfs           1.7G  5.2M  1.7G   1% /tmp
+tmpfs           336M  132K  336M   1% /run/user/1000
+tmpfs           336M   76K  336M   1% /run/user/1001
+################################
+REPORT Thu Oct 16 10:58:01 PM EDT 2025
+ 22:58:01 up  1:56,  5 users,  load average: 0.02, 0.05, 0.06
+               total        used        free      shared  buff/cache   available
+Mem:         3434948     1894020      210968       56092     1437316     1540928
+Swap:        3614716        1788     3612928
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           336M  2.2M  334M   1% /run
+/dev/sda2        20G   11G  8.4G  55% /
+tmpfs           1.7G     0  1.7G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+tmpfs           1.7G  5.2M  1.7G   1% /tmp
+tmpfs           336M  132K  336M   1% /run/user/1000
+tmpfs           336M   76K  336M   1% /run/user/1001
+################################
+REPORT Thu Oct 16 10:59:02 PM EDT 2025
+ 22:59:02 up  1:57,  5 users,  load average: 0.01, 0.04, 0.05
+               total        used        free      shared  buff/cache   available
+Mem:         3434948     1892584      212344       56092     1437368     1542364
+Swap:        3614716        1788     3612928
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           336M  2.2M  334M   1% /run
+/dev/sda2        20G   11G  8.4G  55% /
+tmpfs           1.7G     0  1.7G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+tmpfs           1.7G  5.2M  1.7G   1% /tmp
+tmpfs           336M  132K  336M   1% /run/user/1000
+tmpfs           336M   76K  336M   1% /run/user/1001
+################################
+REPORT Thu Oct 16 11:00:01 PM EDT 2025
+ 23:00:01 up  1:58,  5 users,  load average: 0.00, 0.03, 0.05
+               total        used        free      shared  buff/cache   available
+Mem:         3434948     1895512      209260       56092     1437532     1539436
+Swap:        3614716        1788     3612928
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           336M  2.2M  334M   1% /run
+/dev/sda2        20G   11G  8.4G  55% /
+tmpfs           1.7G     0  1.7G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+tmpfs           1.7G  5.2M  1.7G   1% /tmp
+tmpfs           336M  132K  336M   1% /run/user/1000
+tmpfs           336M   76K  336M   1% /run/user/1001
+################################
+REPORT Thu Oct 16 11:01:01 PM EDT 2025
+ 23:01:01 up  1:59,  5 users,  load average: 0.05, 0.04, 0.05
+               total        used        free      shared  buff/cache   available
+Mem:         3434948     1901916      228144       56100     1414556     1533032
+Swap:        3614716        4084     3610632
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           336M  2.2M  334M   1% /run
+/dev/sda2        20G   11G  8.4G  55% /
+tmpfs           1.7G     0  1.7G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+tmpfs           1.7G  5.2M  1.7G   1% /tmp
+tmpfs           336M  136K  336M   1% /run/user/1000
+tmpfs           336M   76K  336M   1% /run/user/1001
+################################
+REPORT Thu Oct 16 11:02:01 PM EDT 2025
+ 23:02:01 up  2:00,  5 users,  load average: 0.02, 0.03, 0.04
+               total        used        free      shared  buff/cache   available
+Mem:         3434948     1929460      200032       56044     1414996     1505488
+Swap:        3614716        4084     3610632
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           336M  2.2M  334M   1% /run
+/dev/sda2        20G   11G  8.4G  55% /
+tmpfs           1.7G     0  1.7G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+tmpfs           1.7G  5.2M  1.7G   1% /tmp
+tmpfs           336M  136K  336M   1% /run/user/1000
+tmpfs           336M   76K  336M   1% /run/user/1001
+################################
+REPORT Thu Oct 16 11:03:01 PM EDT 2025
+ 23:03:01 up  2:01,  5 users,  load average: 0.27, 0.10, 0.06
+               total        used        free      shared  buff/cache   available
+Mem:         3434948     1930912      198456       56044     1415112     1504036
+Swap:        3614716        4084     3610632
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           336M  2.2M  334M   1% /run
+/dev/sda2        20G   11G  8.4G  55% /
+tmpfs           1.7G     0  1.7G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+tmpfs           1.7G  5.2M  1.7G   1% /tmp
+tmpfs           336M  136K  336M   1% /run/user/1000
+tmpfs           336M   76K  336M   1% /run/user/1001
+################################
+REPORT Thu Oct 16 11:04:01 PM EDT 2025
+ 23:04:01 up  2:02,  5 users,  load average: 0.10, 0.08, 0.06
+               total        used        free      shared  buff/cache   available
+Mem:         3434948     1930928      198376       55724     1414856     1504020
+Swap:        3614716        4084     3610632
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           336M  2.2M  334M   1% /run
+/dev/sda2        20G   11G  8.4G  55% /
+tmpfs           1.7G     0  1.7G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+tmpfs           1.7G  5.2M  1.7G   1% /tmp
+tmpfs           336M  136K  336M   1% /run/user/1000
+tmpfs           336M   76K  336M   1% /run/user/1001
+################################
+REPORT Thu Oct 16 11:05:01 PM EDT 2025
+ 23:05:01 up  2:03,  5 users,  load average: 0.03, 0.06, 0.05
+               total        used        free      shared  buff/cache   available
+Mem:         3434948     1908288      220956       55724     1414900     1526660
+Swap:        3614716        4084     3610632
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           336M  2.2M  334M   1% /run
+/dev/sda2        20G   11G  8.4G  55% /
+tmpfs           1.7G     0  1.7G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+tmpfs           1.7G  5.2M  1.7G   1% /tmp
+tmpfs           336M  136K  336M   1% /run/user/1000
+tmpfs           336M   76K  336M   1% /run/user/1001
+################################
+REPORT Thu Oct 16 11:06:01 PM EDT 2025
+ 23:06:01 up  2:04,  5 users,  load average: 0.06, 0.06, 0.05
+               total        used        free      shared  buff/cache   available
+Mem:         3434948     1967976      159732       55724     1416416     1466972
+Swap:        3614716        4084     3610632
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           336M  2.2M  334M   1% /run
+/dev/sda2        20G   11G  8.4G  55% /
+tmpfs           1.7G     0  1.7G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+tmpfs           1.7G  5.2M  1.7G   1% /tmp
+tmpfs           336M  136K  336M   1% /run/user/1000
+tmpfs           336M   76K  336M   1% /run/user/1001
+################################
+REPORT Thu Oct 16 11:07:01 PM EDT 2025
+ 23:07:01 up  2:05,  5 users,  load average: 0.02, 0.05, 0.05
+               total        used        free      shared  buff/cache   available
+Mem:         3434948     1915884      205636       55692     1416404     1519064
+Swap:        3614716        4084     3610632
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           336M  2.2M  334M   1% /run
+/dev/sda2        20G   11G  8.4G  55% /
+tmpfs           1.7G     0  1.7G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+tmpfs           1.7G  5.2M  1.7G   1% /tmp
+tmpfs           336M  136K  336M   1% /run/user/1000
+tmpfs           336M   76K  336M   1% /run/user/1001
+################################
+REPORT Thu Oct 16 11:08:01 PM EDT 2025
+ 23:08:01 up  2:06,  5 users,  load average: 0.01, 0.04, 0.04
+               total        used        free      shared  buff/cache   available
+Mem:         3434948     1899436      221916       55692     1416476     1535512
+Swap:        3614716        4084     3610632
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           336M  2.2M  334M   1% /run
+/dev/sda2        20G   11G  8.4G  55% /
+tmpfs           1.7G     0  1.7G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+tmpfs           1.7G  5.2M  1.7G   1% /tmp
+tmpfs           336M  136K  336M   1% /run/user/1000
+tmpfs           336M   76K  336M   1% /run/user/1001
+################################
